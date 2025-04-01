@@ -13,3 +13,8 @@ var myVar = "Hello, world!";
 $ git init
 Initialized empty Git reporisotory in Users/skills/Projects/recipe-repository/.git/
 ```
+#
+Step four, task list
+- [x] List Syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
