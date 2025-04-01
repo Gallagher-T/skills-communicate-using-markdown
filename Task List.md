@@ -1,0 +1,3 @@
+- [ ] Turn on Github Pages
+- [ ] Outline my protfolio
+- [ ] Introduce myself to the world
